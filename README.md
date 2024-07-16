@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnepie
 - 👀 I’m interested in chess, programming, soccer, learning new stuff, ...
-- 🌱 I’m currently learning python and starting to learn java
+- 🌱 I’m currently learning python 
 
 <!---
 arnepie/arnepie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
